@@ -1,44 +1,44 @@
 [
     {
-        "animalName":"Bambi",
+        "animalName":"Dot",
         "animalPic":"https://TomG2024.github.io/Jsondata/Images/Cute-Cartoon-Deer.webp",
-        "animalAge":"8",
-        "animalType":"dog",
-        "animalBreed":"Cross Breed Collie"
+        "animalAge":"4",
+        "animalType":"Deer",
+        "animalBreed":"Red Deer"
     },
     {
-        "animalName":"Jemima",
+        "animalName":"Felix",
         "animalPic":"https://TomG2024.github.io/Jsondata/Images/Cute-Cartoon-Fox.webp",
-        "animalAge":"6",
-        "animalType":"dog",
-        "animalBreed":"Cross Breed Sproodle"
+        "animalAge":"2",
+        "animalType":"Fox",
+        "animalBreed":"Fox"
     },
     {
-        "animalName":"Garnet",
+        "animalName":"Ollie",
         "animalPic":"https://TomG2024.github.io/Jsondata/Images/Cute-Cartoon-Otter.webp",
-        "animalAge":"15",
-        "animalType":"cat",
-        "animalBreed":"tabby moggy"
+        "animalAge":"7",
+        "animalType":"Otter",
+        "animalBreed":"Eurasian Otter"
     },
     {
-        "animalName":"Tabby",
+        "animalName":"Polly",
         "animalPic":"https://TomG2024.github.io/Jsondata/Images/Cute-Cartoon-Pine-Marten.webp",
-        "animalAge":"11",
-        "animalType":"cat",
-        "animalBreed":"tabby moggy"
+        "animalAge":"10",
+        "animalType":"Pine Marten",
+        "animalBreed":"European pine marten"
     },
     {
-        "animalName":"Moonlight",
+        "animalName":"Sam",
         "animalPic":"https://TomG2024.github.io/Jsondata/Images/Cute-Cartoon-Squirrel.webp",
-        "animalAge":"11",
-        "animalType":"cat",
-        "animalBreed":"Black and white moggy"
+        "animalAge":"1",
+        "animalType":"Red Squirrel",
+        "animalBreed":"Red squirrel"
     },
     {
-        "animalName":"Moonlight",
+        "animalName":"Burnie",
         "animalPic":"https://TomG2024.github.io/Jsondata/Images/Cute-badger.webp",
         "animalAge":"11",
-        "animalType":"cat",
-        "animalBreed":"Black and white moggy"
+        "animalType":"Badger",
+        "animalBreed":"European Badger"
     }
 ]
